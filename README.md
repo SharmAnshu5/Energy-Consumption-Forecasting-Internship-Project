@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SharmAnshu5/InsuScan_Pro/blob/main/Portfolio%20(1).png" alt="InsuScan Pro Banner" width="100%">
+  <img src="https://github.com/SharmAnshu5/Energy-Consumption-Forecasting-Internship-Project/blob/main/Portfolio.png" width="100%">
 </p>
 
 <div align="center">
