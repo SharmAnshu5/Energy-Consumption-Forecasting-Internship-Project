@@ -71,4 +71,4 @@ The project objective was to **develop a machine learning pipeline** for predict
 ## 👨‍💻 Author
 **Anshu Sharma**  
 B.Tech (CSE - AI/ML)  
-📧 [anshusharma5.as@gmail.com] | 🌐 [LinkedIn Profile]([your-linkedin](https://www.linkedin.com/in/anshu-sharma-b74a07221/)) | 💻 [Portfolio]([your-portfolio-link](https://sharmanshu5.github.io/Portfolio/))
+📧 [anshusharma5.as@gmail.com] | 🌐 [LinkedIn Profile](your-linkedin](https://www.linkedin.com/in/anshu-sharma-b74a07221/) | 💻 [Portfolio](your-portfolio-link](https://sharmanshu5.github.io/Portfolio/)
